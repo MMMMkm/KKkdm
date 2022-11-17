@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8">
@@ -40,8 +39,7 @@
         <p>吃屎拉屎我的最爱</p>
         <p>人生只为跟屎相爱</p>
         <p>我人生 自在 </p>
-        <o>本人 狗嗨</p>
-        </div>
+        <p>本人 狗嗨</p>
     <div style="
     background-color: #f1f1f1;
     text-align: center;
